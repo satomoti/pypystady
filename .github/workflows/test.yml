@@ -33,7 +33,7 @@ jobs:
 
           # Unity プロジェクトのバージョンを指定する
           # ProjectSettings/ProjectVersion.txt に記載されているバージョンを入力すれば OK
-          unityVersion: 2020.3.24f1
+          unityVersion: 2020.3.9f1
 
           # 実行したいテストの種類を指定できる
           # 指定可能な値は All, PlayMode, EditMode
